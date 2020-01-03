@@ -4,7 +4,6 @@
 *.pyc
 *.pyo
 env/
-env*
 dist/
 build/
 *.egg
@@ -30,4 +29,3 @@ htmlcov/
 #virtual env
 env/
 .vscode
-env_file
